@@ -1,6 +1,6 @@
 # 第2回課題
 ## ブランチ保護ルール設定のエビデンスの提出
-　[こちらのリンクから確認お願いします※GoogleDrive内の画像です](https://drive.google.com/file/d/1BbUyTYaecKA3Gka9UQBkGg2vg_2LpU8a/view?usp=sharing "エビデンスへのリンク")
+![ブランチ保護ルール設定のエビデンス画像](/Image/main-protection.png) 
 
 ## 第2回講義で学んだこと
 - バージョン管理システム
