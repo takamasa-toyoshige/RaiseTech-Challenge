@@ -6,11 +6,21 @@
 
 ## EC2の構築
 
-![EC2の構築エビデンス](/Image/lecture04/EC2.png)
+- EC2の詳細
+  ![EC2の構築エビデンス](/Image/lecture04/EC2.png)
+- EC2のセキュリティグループ
+  ![EC2のセキュリティグループの構築エビデンス](/Image/lecture04/EC2-SG.png)
 
 ## RDSの構築
 
-![RDSの構築エビデンス](/Image/lecture04/RDS.png)
+- RDSの詳細
+  ![RDSの構築エビデンス](/Image/lecture04/RDS.png)
+
+- RDSのセキュリティグループ(インバウンドルール)
+  ![RDSのセキュリティグループエビデンス(インバウンドルール)](/Image/lecture04/RDS-SG-inbound.png)
+
+- RDSのセキュリティグループ(アウトバウンドルール)
+  ![RDSのセキュリティグループエビデンス(アウトバウンドルール)](/Image/lecture04/RDS-SG-outbound.png)
 
 ## EC2からRDSへの接続確認
 
